@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+
+body {
+    background-color: #131516;
+    Font-family: 'Roboto', sans-serif;
+ 
+}
+
+.text{
+    height: 52px;
+}
+
+h1 {
+    position: absolute;
+    width: 200px;
+    height: 33px;
+    left: 78px;
+    top: 50px;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #F5F5F5;
+    width: 20%;
+}
+
+h3{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #E3E3E3;
+}
+
+p {
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #E3E3E3;
+}
+
+hr {
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 101px;
+    border: 1px solid #434343;
+}
+
+
+/*Botões*/
+button{
+    background: #5C0D78;
+    border: 10px solid #5C0D78;
+    color: whitesmoke;     
+    padding: 2px;
+}
+/*caixas do portfólio*/   
+.retangle1{
+position: absolute;
+width: 261px;
+height: 333px;
+left: 85px;
+top: 204px;
+background: #191B1D;
+text-align: center;
+}
+
+.retangle1 p{
+    padding: 10px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px;
+}
+.retangle2{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 420px;
+    top: 204px;
+    background: #191B1D;
+    text-align: center;
+
+}
+.retangle2 p{
+    padding: 10px;
+}
+.retangle3{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 755px;
+    top: 204px;
+    background: #191B1D;
+    text-align: center;
+}
+.retangle3 p{
+    padding: 10px;
+}
+.retangle4{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 1090px;
+    top: 204px;
+    background: #191B1D;
+    text-align: center;
+}
+.retangle4 p{
+    padding: 10px;
+}
+.retangle5{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 85px;
+    top: 604px;
+    background: #191B1D;
+    text-align: center;
+}
+.retangle5 p{
+    padding: 10px;
+}
+.retangle6{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 420px;
+    top: 604px;
+    background: #191B1D;
+    text-align: center;
+}
+.retangle6 p{
+    padding: 10px;
+}
+.retangle7{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 755px;
+    top: 604px;
+    background: #191B1D;
+    text-align: center;
+}
+.retangle7 p{
+    padding: 10px;
+}
+.retangle8{
+    position: absolute;
+    width: 261px;
+    height: 333px;
+    left: 1090px;
+    top: 604px;
+    background: #191B1D;
+    text-align: center;
+}
+.retangle8 p{
+    padding: 10px;
+}
+    
